@@ -187,7 +187,6 @@ whatsapp-bulk-sender/
 │   └── routes.py       # API endpoints
 ├── dist/public/        # Static frontend (HTML/CSS/JS)
 │   └── index.html      # Main interface
-├── shared/             # Shared utilities
 ├── uploads/            # Uploaded files storage
 ├── utils/              # Utility modules
 │   └── file_handler.py # Excel parsing & validation
