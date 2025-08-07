@@ -1,4 +1,4 @@
-### **WHATSAPP BLAST**
+## **WHATSAPP BLAST**
 
 A professional web application for automating bulk messaging through WhatsApp Web with real-time progress tracking and a beautiful WhatsApp-themed interface.
 
@@ -20,17 +20,17 @@ A professional web application for automating bulk messaging through WhatsApp We
 
 ## 📋 Table of Contents
 
-1. [Architecture](#architecture)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Usage](#usage)
-6. [API Documentation](#api-documentation)
-7. [File Structure](#file-structure)
-8. [Troubleshooting](#troubleshooting)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
+1. [Architecture]
+2. [Prerequisites]
+3. [Installation]
+4. [Configuration]
+5. [Usage]
+6. [API Documentation]
+7. [File Structure]
+8. [Troubleshooting]
+9. [Contributing]
+10. [License]
+11. [Acknowledgments]
 
 ---
 
@@ -106,7 +106,7 @@ Frontend (HTML/CSS/JS) ←→ Flask API (Python) ←→ Selenium Automation
 Customize `config.py` or set environment variables for:
 
 | Variable               | Description                   | Default     | Required |
-| ---------------------- | ----------------------------- | ----------- | :------: |  |
+| ---------------------- | ----------------------------- | ----------- | :------: | 
 | `CHROME_USER_DATA_DIR` | Chrome profile directory path | Auto-detect |    No    |
 | `CHROME_PROFILE_NAME`  | Chrome profile name           | `Default`   |    No    |
 
