@@ -5,8 +5,9 @@ CONFIG = {
     'max_retries': 3,
     'delay_between_messages': 30,  # seconds between messages
     'upload_timeout': 60,          # seconds for file upload
-    'chat_load_timeout': 45,       # seconds to wait for chat to load
-    'message_send_timeout': 40,    # seconds to wait for message to send
+    'chat_load_timeout': 30,       # seconds to wait for chat to load
+    'message_send_timeout': 20,    # seconds to wait for message to send
+    'login_timeout': 120,           # seconds to wait for login
 
     # Chrome profile settings
     'user_data_dir': os.environ.get('CHROME_USER_DATA_DIR', ''),
