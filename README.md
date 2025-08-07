@@ -259,4 +259,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 <sup>⚠️ This tool is for educational and business compliance only. Ensure adherence to WhatsApp’s Terms of Service and relevant laws.</sup>
+
 *Built by Sharath Ragav T*
