@@ -1,4 +1,4 @@
-**WhatsApp Bulk Sender**
+**WHATSAPP BLAST**
 
 A professional web application for automating bulk messaging through WhatsApp Web with real-time progress tracking and a beautiful WhatsApp-themed interface.
 
